@@ -1,2 +1,2 @@
 # Group-Comparison
-This repository contains one of the earlier assignments in the MSBA program.
+This repository contains one of the earlier assignments in the MSBA program. This assignment was meant to teach us to understand basic comparative statistics on two groups of corpora. In this program, I create a function to compare speeches from the RNC to speeches from the DNC, and apply it again to compare speeches from the RNC to a text file containing a large assortment of words.
